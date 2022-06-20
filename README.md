@@ -7,10 +7,9 @@
 
 <img src="https://media4.giphy.com/media/j6ZReIODqJXh5sPLVq/giphy.gif?cid=790b7611e2b948a7d9a4d9c2f4c25bdd21141273e0a0e530&rid=giphy.gif&ct=g" width="250" height="250"/>
 
-  
- ###  
-
-
+ <p>
+ <p>
+ <p>
 Sou um entusiasta de tecnologia que ama resolver problemas através de código e proporcionar crescimento sustentável e escalabilidade aos projetos que atuo.
 
 Tenho experiência profissional com desenvolvimento em Java, Python, PHP, Javascript, HTML, CSS e SQL (MS SQL Server, MySQL), além de modelagem de dados, domínio em versionamento de código com Git.
