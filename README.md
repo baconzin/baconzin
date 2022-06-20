@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub 
 
-  <img src="https://c.tenor.com/AkEYyNJ2P90AAAAC/friends.gif" width="150" height="250"/>
+  <img src="https://c.tenor.com/AkEYyNJ2P90AAAAC/friends.gif" width="250" height="250"/>
 
   
 
