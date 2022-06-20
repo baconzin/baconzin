@@ -1,7 +1,7 @@
   
 ## Hello!
 
-###My name is Raphael Almeida Pascon!  
+## My name is Raphael Almeida Pascon!  
 
 ### Welcome to my GitHub 
 
